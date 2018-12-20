@@ -1,0 +1,6 @@
+25 	s 	l
+20	v 	h
+25	s 	l
+45	suv h
+20	s 	h
+25	suv h
